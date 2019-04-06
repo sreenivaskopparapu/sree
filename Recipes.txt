@@ -5,5 +5,7 @@ welcome to sree restaurants
 gobi
 noodles
 mushroom fry
+pizza
+pasta
 
 thanks
